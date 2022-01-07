@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "baseUrl": "/src", //orienta o ts que os arquivos a serem importados estarão na pasta "src"
+    "baseUrl": "src", //orienta o ts que os arquivos a serem importados estarão na pasta "src"
     "target": "es5",
     "lib": [
       "dom",
