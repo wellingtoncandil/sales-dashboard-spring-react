@@ -9,14 +9,13 @@ function App() {
     <>
       <NavBar />
       <div className="container">
-        <h1 className="text-primary py-3">Sales Dashboard</h1>
         <div className="row px-3">
           <div className="col-sm-6">
-            <h5 className="text-center text-secondary">Taxa de conversão (%)</h5>
+            <h3 className="text-center text-secondary">Taxa de conversão (%)</h3>
             <BarChart/>
           </div>
           <div className="col-sm-6">
-            <h5 className="text-center text-secondary">Taxa de conversão (%)</h5>
+            <h3 className="text-center text-secondary">Taxa de conversão (%)</h3>
             <DonutChart/>
           </div>
         </div>

@@ -5,7 +5,8 @@
 
 html, body {
     height: 100%;
-    font-family: "Ubuntu", sans-serif;
+    font-family: "burbank", sans-serif;
+    font-size: 120%;
 }
 
 #root {
@@ -21,6 +22,8 @@ html, body {
 .footer {
     flex-shrink: 0;
     text-align: center;
+    font-family: 'Ubuntu';
+    font-size: 70%;
 }
 
 .bg-primary {
@@ -29,4 +32,11 @@ html, body {
 
 .text-primary {
     color: var(--color-primary) !important;
+}
+
+@font-face {
+    font-family: 'burbank' ;
+    src: url('Burbank\ Big\ Condensed\ Black.ttf') format('truetype');
+    font-weight: 'normal';
+    font-style: 'normal';
 }
