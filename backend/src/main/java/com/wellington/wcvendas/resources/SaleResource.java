@@ -14,7 +14,6 @@ import com.wellington.wcvendas.dto.SaleDTO;
 import com.wellington.wcvendas.dto.SaleSuccessDTO;
 import com.wellington.wcvendas.dto.SaleSumDTO;
 import com.wellington.wcvendas.services.SaleService;
-import com.wellington.wcvendas.services.SellerService;
 
 @RestController
 @RequestMapping("/sales")
