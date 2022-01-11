@@ -40,3 +40,7 @@ html, body {
     font-weight: 'normal';
     font-style: 'normal';
 }
+
+.altera-fonte-btn{
+    font-size: 1.2em;
+}
