@@ -31,11 +31,6 @@ const DonutChart = () => {
         }
     };
 
-    const mockData = {
-        series: [477138, 499128, 444867, 220426, 473088],
-        labels: ['Anakin', 'Barry', 'Elias', 'Logan', 'Cazé']
-    }
-
     return (
         <Chart
             options={{ ...options, labels: chartData.labels }}
