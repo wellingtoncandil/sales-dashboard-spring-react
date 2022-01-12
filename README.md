@@ -1,3 +1,7 @@
 # sales-dashboard-spring-react
 
-Link para acesso a aplicação na nuvem https://salesdashboard-demo.netlify.app
+Tecnologias utilizadas: Springboot, JPA, H2, Postgress, ReactJS, React Router, Axios.
+
+Backend rodando no Heroku e frontend no Netlify.
+
+Link https://salesdashboard-demo.netlify.app
